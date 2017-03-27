@@ -3,7 +3,7 @@ For the maintenance of offline copies of fimfiction epubs.
 
 <pre>
 Features:
-  Cover art is downloaded from https://www.fimfiction.net/ and added to the epub.</li>
+  Cover art is downloaded from <a href="https://www.fimfiction.net/">https://www.fimfiction.net/</a> and added to the epub.</li>
   Border is added to cover art for quick reference to rating and completion status.</li>
   Description page is added to the beginning of the epub to include category information and story description.</li>
 
